@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/felipedev1996/react-app-pictures/static/css/main.2c3a5432.css",
-    "main.js": "/felipedev1996/react-app-pictures/static/js/main.80d7d795.js",
+    "main.js": "/felipedev1996/react-app-pictures/static/js/main.4ff51288.js",
     "index.html": "/felipedev1996/react-app-pictures/index.html",
     "main.2c3a5432.css.map": "/felipedev1996/react-app-pictures/static/css/main.2c3a5432.css.map",
-    "main.80d7d795.js.map": "/felipedev1996/react-app-pictures/static/js/main.80d7d795.js.map"
+    "main.4ff51288.js.map": "/felipedev1996/react-app-pictures/static/js/main.4ff51288.js.map"
   },
   "entrypoints": [
     "static/css/main.2c3a5432.css",
-    "static/js/main.80d7d795.js"
+    "static/js/main.4ff51288.js"
   ]
 }
