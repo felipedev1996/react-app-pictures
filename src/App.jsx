@@ -19,7 +19,7 @@ function App() {
         <Link to="/movie">Movie</Link>
       </header>
       <main>
-  
+      <Router basename={process.env.PUBLIC_URL}>
           <Switch>
             <Route exact path="/movies/:movieId">
              <MovieDetails />
@@ -30,7 +30,7 @@ function App() {
   
           </Switch>
 
-
+          </Router>
 
       </main>
 </Router>
