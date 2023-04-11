@@ -1,0 +1,35 @@
+.detailsContainer {
+
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+ 
+  
+}
+
+.col{
+
+    max-width: 300px;
+    /* width: 80%; */
+    margin: 15px;
+    /* height: auto; */
+    height: 80%;
+}
+
+.movieImage{
+    /* display: block; */
+    border-radius: 15px;
+}
+
+.movieDetails{
+
+    font-size: 1rem;
+    
+}
+
+.firstItem{
+
+
+margin-top: 0;
+
+}
