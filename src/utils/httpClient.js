@@ -1,3 +1,8 @@
+import {config} from 'dotenv';
+ 
+console.log(config()); 
+
+
 
 const API_URL = "https://api.themoviedb.org/3";
 
